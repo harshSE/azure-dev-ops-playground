@@ -7,6 +7,6 @@ public class FailingTest {
 
     @Test
     void failing_test() {
-        Assertions.fail("Failing deliberately");
+        Assertions.fail("Failing deliberately ");
     }
 }
